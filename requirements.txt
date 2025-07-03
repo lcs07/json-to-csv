@@ -1,0 +1,18 @@
+# JSON to CSV 변환기 - Python 의존성
+# 이 프로젝트는 Python 표준 라이브러리만 사용합니다.
+# 추가 패키지 설치가 필요하지 않습니다.
+
+# 권장 Python 버전: 3.12+
+# 최소 Python 버전: 3.11+
+
+# 사용된 표준 라이브러리:
+# - json: JSON 파싱
+# - csv: CSV 파일 작성  
+# - sys: 시스템 정보 및 종료
+# - argparse: 명령행 인수 파싱
+# - pathlib: 파일 경로 처리
+# - typing: 타입 힌트
+# - time: 성능 측정
+
+# 설치 명령어: 없음 (표준 라이브러리만 사용)
+# 사용법: python main.py sample_data.json

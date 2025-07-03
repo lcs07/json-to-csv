@@ -1,0 +1,36 @@
+[
+  {
+    "product_id": "P001",
+    "name": "노트북",
+    "price": 1200000,
+    "category": "전자제품",
+    "in_stock": true,
+    "tags": ["컴퓨터", "업무용"],
+    "specs": {
+      "cpu": "Intel i7",
+      "ram": "16GB",
+      "storage": "512GB SSD"
+    }
+  },
+  {
+    "product_id": "P002", 
+    "name": "무선마우스",
+    "price": 35000,
+    "category": "전자제품",
+    "in_stock": false,
+    "tags": ["마우스", "무선"]
+  },
+  {
+    "product_id": "P003",
+    "name": "책상",
+    "price": 150000,
+    "category": "가구",
+    "in_stock": true,
+    "material": "원목",
+    "dimensions": {
+      "width": 120,
+      "depth": 60,
+      "height": 75
+    }
+  }
+]
